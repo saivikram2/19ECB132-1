@@ -6,10 +6,10 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 [02_insertion_sort.c](02_insertion_sort.c)
 
-[03 binary tree.c](03_binary_tree.c)
+[03_binary_tree.c](03_binary_tree.c)
 
-[04 fibonacci sequence.c](04_fibonacci_sequence.c)
+[04_fibonacci_sequence.c](04_fibonacci_sequence.c)
 
-[05 singly linked list.c](05_singly_linked_list.c)
+[05_singly_linked_list.c](05_singly_linked_list.c)
 
-[06 double linked list.c](06_double_linked_list.c)
+[06_double linked list.c](06_double_linked_list.c)
