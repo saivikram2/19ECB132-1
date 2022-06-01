@@ -26,6 +26,8 @@ The number of letters in the given sentence are : 5
 
 */  
 
+Enter a sentence: doing c program
 
+The number of letters in the given sentence are : 5
   
 
