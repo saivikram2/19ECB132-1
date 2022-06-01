@@ -100,4 +100,7 @@ static void modifyTheContentsOf1stHalf()
         back1 = back1.next;
     }
 }
- 
+Enter a sentence: 7
+
+The number of letters in the given sentence are : 1
+
