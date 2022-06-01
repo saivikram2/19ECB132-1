@@ -29,4 +29,6 @@ int main() {
 
   return 0;
 }
-Enter an operator (+, -, *, /): 
+
+Enter two operands: +,-
+0.0 + 0.0 = 0.0~/19ECB132-1
