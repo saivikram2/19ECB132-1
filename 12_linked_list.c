@@ -95,3 +95,11 @@ int main() {
   }
     
 }
+
+./a.out
+
+1. Singly Linked List 
+2. Doubly Linked List 
+3. Circular Linked List 
+4. Exit
+Choose an option: 3
